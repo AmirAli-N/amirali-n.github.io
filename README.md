@@ -1,4 +1,4 @@
-## [Example of MDP Approach to Unified Planting and Harvesting Optimization](https://amirali-n.github.io/MDP-PlantHarvest/)
+## [Example of MDP Approach to Unified Planting and Harvesting Optimization](https://github.com/AmirAli-N/Bayer_PlantHarvestMDP)
 Markov decision processes (MDP) can be a powerful tool in modeling system that evolve over time. In this case, this framework is used to model a farm operations management where each field at the farm may be planted and harvested at different time which result in different yields. To optimize the yield at the end of the horizon, various decisions must be made prior to harvesting time with the goal of maximizing the volume harvested. The planting decision also affects the quality of the volume harvested. You can visit my minimal implementation of the MDP approach to this problem in the [project's page](https://github.com/AmirAli-N/MDP-PlantHarvest).
 
 ## [Feature Selection with Boruta and Importance Analysis with SHAP Values](https://amirali-n.github.io/BorutaFeatureSelectionWithShapAnalysis/)
